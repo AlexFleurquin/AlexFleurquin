@@ -8,7 +8,7 @@ I previously worked as Product Manager in the Core team at Cajoo, and as IT cons
 Currently looking for a front-end developer opportunity !
 
 
-- 🔭 I’m currently working on [yarder](http://yarder.homes)
+- 🔭 I’m currently working on [yarder](http://yarder.homes) & jinial
 
 - 🌱 I’m currently learning **React**
 
