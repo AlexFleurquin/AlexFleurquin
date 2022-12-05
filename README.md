@@ -10,7 +10,7 @@ Currently looking for a Front End developer opportunity !
 
 - 🔭 I’m currently working on [yarder](http://yarder.homes) & jinial
 
-- 🌱 I’m currently learning **Next JS** & **React**
+- 🌱 I’m currently learning **Next JS**, **React** & **React Native**
 
 - 📫 How to reach me **alexandre.fleurquin@gmail.com**
 
